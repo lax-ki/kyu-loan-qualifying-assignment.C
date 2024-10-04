@@ -1,0 +1,10 @@
+//program for loan qualification
+//preprocessor directive- scanf(), printf();
+# include <stdio.h>
+int main () {
+    int age=22;
+    int salary=27000;
+    char name[]={"Laxki"}; //%s
+    printf("Congratulations Laxki you qualify fo the loan -%d");
+    return 0;
+}
